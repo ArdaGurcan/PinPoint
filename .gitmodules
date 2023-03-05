@@ -1,0 +1,9 @@
+[submodule "pathfinding-web-app"]
+	path = pathfinding-web-app
+	url = https://github.com/ArdaGurcan/madhacks-23.git
+[submodule "trilateration-mobile-app"]
+	path = trilateration-mobile-app
+	url = https://github.com/ArdaGurcan/pin-point-mobile-app.git
+[submodule "Unity-LIDAR-Data-Gen"]
+	path = Unity-LIDAR-Data-Gen
+	url = https://github.com/ArdaGurcan/PinPoint-LIDAR-Data-Gen.git
